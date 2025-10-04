@@ -2,7 +2,7 @@ import React from "react";
 
 const HeroSection = () => {
   return (
-    <section className="relative bg-[url('https://shtheme.com/demosd/mivaan/wp-content/uploads/2023/10/hero-bg.png')] bg-cover bg-center bg-no-repeat min-h-screen flex items-center justify-center px-6 sm:px-12 md:px-20 py-12 sm:py-16">
+    <section className="relative bg-[url('https://shtheme.com/demosd/mivaan/wp-content/uploads/2023/10/hero-bg.png')] bg-cover bg-center bg-no-repeat min-h-screen flex items-center justify-center px-6 sm:px-12 md:px-20 py-2 sm:py-16">
       {/* Content */}
       <div className="relative z-10 max-w-6xl w-full flex flex-col md:flex-row items-center justify-between text-black">
         {/* Left Text Content */}
